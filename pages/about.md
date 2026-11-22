@@ -4,7 +4,7 @@ title: About
 permalink: /about
 ---
 
-# Daniel Neau Portfolio
+# About Me
 <img src="{{ '/assets/img/projects/about/Selfimage.jpeg' | relative_url }}" alt="Daniel Neau" width="20">
 
 Hi, I am Daniel Neau, 
