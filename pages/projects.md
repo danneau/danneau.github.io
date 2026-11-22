@@ -3,4 +3,4 @@ layout: page
 title: Projects
 ---
 
-{% include project.html %}
+{% include projects.html %}
