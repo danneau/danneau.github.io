@@ -22,7 +22,7 @@ projects:
 
 social:
 - {icon: 'github',    link: 'https://github.com/danneau'}
-- {icon: 'linkedin',  link: 'www.linkedin.com/in/daniel-neau-0555b1298'}
+- {icon: 'linkedin',  link: 'https://www.linkedin.com/in/daniel-neau-0555b1298'}
 - {icon: 'envelope',  link: 'mailto:mailto:danieljneau@gmail.com'}
 
 # social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
