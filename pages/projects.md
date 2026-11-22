@@ -1,5 +1,8 @@
 ---
-layout: home
+layout: page
 title: Projects
-permalink: /projects
 ---
+
+{% for project in site.projects %}
+  {% include project.html %}
+{% endfor %}
