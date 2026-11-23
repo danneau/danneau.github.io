@@ -1,9 +1,13 @@
 ---
 layout: post
-title: 'HonorsThesis'
+title: 'Honors Thesis'
 ---
-Mauris velit metus, tempor gravida nulla eget, auctor accumsan tellus. Curabitur volutpat sed dolor quis tempus. In scelerisque aliquam felis at tincidunt. Proin non augue fringilla, [pretium justo vitae](#), maximus dui. Nunc ipsum nisi, fermentum sit amet volutpat cursus, sodales ac nisl. Quisque nec tellus sem. Cras pharetra felis non quam mollis, nec efficitur lectus aliquet. Maecenas ipsum felis, eleifend nec [semper venenatis](#), consequat ut nunc. Donec est augue, facilisis quis placerat sed, imperdiet sit amet neque. Maecenas nec risus metus. Nunc non condimentum ipsum. Phasellus consectetur dapibus massa, convallis iaculis nisi vestibulum id. Phasellus et fringilla augue. Donec consequat dui ut rutrum elementum. Aenean nisi arcu, ornare eu lacus vel, faucibus tempor tortor.
+## Overview
+# Title: The Potential Correlation of Public Transit Accessibility and Voting Turnout; A Study in Worcester, Massachusetts and Baton Rouge, Louisiana
+This project was my Honors Thesis for Clark University's Graduate School of Geography within the School of Climate Environment and Society, Defended April 17th 2026.
 
-{% include image.html url="http://www.gratisography.com" image="projects/proj-1/dog.jpg" %}
+## Abstract
+This thesis looks at the potential impact public transit has on voting turnout through a look at two cites, Worcester, Massachusetts and Baton Rouge Louisiana and their turnout in the 2024 election. Difficulty in getting to one’s polling place has been shown to be a strong contributing factor in the likelihood that a person casts an in-person vote in an election (Dyck and Gimpel, 2005). A lack of access to polling places by public transit may be a barrier for households without a personal vehicle to vote. This study finds that the correlation between the amount of time it takes for a potential voter to get to their polling place by taking public transit or by walking and turnout for that voter’s precinct may be a strong enough indicator that more research should be done to see if this relationship holds in other locations. Analyzing this relationship in just two cites is nowhere near enough to generalize relationships around the US, as such this study also attempts to outline a methodology for analyzing public transits impacts on voting turnout in other cites as there has been little research done on this topic.
 
-{% include image.html url="http://www.gratisography.com" image="projects/proj-1/wall.jpg" %}
+
+[View the thesis (PDF)]({{ 'assets/img/projects/honorsthesis/DNeau_HonorsThesisFull.pdf' | relative_url }})
