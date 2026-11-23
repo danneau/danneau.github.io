@@ -5,13 +5,12 @@
         <div class="project-unit"
      data-folder="{{ site.github.url }}/projects/{{ project.url }}"
      style="background-color: #EE2E24; background-image: url('{{ '/assets/img/projects/' | append: project.url | append: '/thumbnail.jpg' | relative_url }}')">
-          <div class="project-overlay">
-            <strong style="color: #ffffff;">
+         <div class="project-overlay" style="display: block !important; opacity: 1 !important; visibility: visible !important;">
+            <strong style="display: block !important; color: #ffffff !important;">
               {{ project.name }}
               <i class="fa fa-arrow-right" aria-hidden="true"></i>
-            </strong>
+              </strong>
           </div>
-        </div>
       </a>
     {% endfor %}
   </div>
