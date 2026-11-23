@@ -17,27 +17,21 @@ $documentBackgroundColor: #fff
 @import '1-tools/-tools-dir'
 @import '2-base/-base-dir'
 @import '3-sections/-sections-dir'
-
-.projects-section
-  background-color: transparent
 .projects-section .project-unit
-  background-color: #EE2E24
+  position: relative
 
-.projects-section .project-overlay
-  opacity: 1
-  visibility: visible
-  display: flex
+.projects-section .project-unit .project-overlay,
+.projects-section .project-unit:hover .project-overlay
+  display: flex !important
+  position: absolute !important
+  inset: 0
+  opacity: 1 !important
+  visibility: visible !important
+  transform: none !important
   align-items: center
   justify-content: center
   z-index: 2
 
-.projects-section .project-overlay strong
-  color: #ffffff
-  position: relative
-  z-index: 3
-.projects-section .project-unit .project-overlay
-  display: block !important
-  opacity: 1 !important
-  visibility: visible !important
-  transform: none !important
+.projects-section .project-unit .project-overlay strong
+  color: #ffffff !important
 
