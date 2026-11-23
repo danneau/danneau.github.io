@@ -2,7 +2,9 @@
   <div class="project-container">
     {% for project in site.data.settings.projects %}
       <a href="{{ site.github.url }}/projects/{{ project.url }}">
-        <div class="project-unit" data-folder="{{ site.github.url }}/projects/{{ project.url }}" style="background-image: url({{ site.github.url }}/assets/img/projects/{{ project.url }}/thumbnail.jpg)">
+        <div class="project-unit"
+     data-folder="{{ site.github.url }}/projects/{{ project.url }}"
+     style="background-color: #EE2E24; background-image: url('{{ '/assets/img/projects/' | append: project.url | append: '/thumbnail.jpg' | relative_url }}')">
           <div class="project-overlay">
             <strong style="color: #EE2E24;">
               {{ project.name }}
