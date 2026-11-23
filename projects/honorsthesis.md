@@ -3,7 +3,7 @@ layout: post
 title: 'Honors Thesis'
 ---
 ## Overview
-The Potential Correlation of Public Transit Accessibility and Voting Turnout; A Study in Worcester, Massachusetts and Baton Rouge, Louisiana
+# The Potential Correlation of Public Transit Accessibility and Voting Turnout; A Study in Worcester, Massachusetts and Baton Rouge, Louisiana
 This project was my Honors Thesis for Clark University's Graduate School of Geography within the School of Climate Environment and Society, Defended April 17th 2026.
 
 ## Abstract
